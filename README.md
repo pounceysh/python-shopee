@@ -16,9 +16,9 @@ If you came here looking for the [Shopee seller center](https://seller.shopee.tw
 $ pip install pyshopee
 ```
 
-### Example for using pyshopee2 (Latest)
+### Example for using pyshopee2 (The Latest)
 
-- change `pyshopee.Client` to `pyshopee.Client20`
+- change `pyshopee.Client` to  `pyshopee.Client20`
 
 ```python
 import pyshopee
